@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">sms2</string>
+    <string name="column_that_has_phone_numbers">Column that has phone Numbers :</string>
+    <string name="column_name">column Name</string>
+    <string name="browse">browse</string>
+    <string name="send">Send</string>
+    <string name="send_sms_using_excel_file">Send Sms using Excel file</string>
+</resources>
